@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+groq
+mysql-connector-python
+bcrypt
+extra-streamlit-components
+PyPDF2
+scikit-learn
